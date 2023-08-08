@@ -1,0 +1,14 @@
+F:\code\NAS\NAS\obj\Debug\NAS.csproj.AssemblyReference.cache
+F:\code\NAS\NAS\obj\Debug\NAS.csproj.SuggestedBindingRedirects.cache
+F:\code\NAS\NAS\obj\Debug\NAS.Form1.resources
+F:\code\NAS\NAS\obj\Debug\NAS.Properties.Resources.resources
+F:\code\NAS\NAS\obj\Debug\NAS.csproj.GenerateResource.cache
+F:\code\NAS\NAS\obj\Debug\NAS.csproj.CoreCompileInputs.cache
+F:\code\NAS\NAS\bin\Debug\NAS.exe.config
+F:\code\NAS\NAS\bin\Debug\NAS.exe
+F:\code\NAS\NAS\bin\Debug\NAS.pdb
+F:\code\NAS\NAS\bin\Debug\SharpCifs.Std.dll
+F:\code\NAS\NAS\bin\Debug\SharpCifs.Std.xml
+F:\code\NAS\NAS\obj\Debug\NAS.csproj.CopyComplete
+F:\code\NAS\NAS\obj\Debug\NAS.exe
+F:\code\NAS\NAS\obj\Debug\NAS.pdb
